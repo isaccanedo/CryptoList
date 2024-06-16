@@ -1,10 +1,6 @@
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
-# Sponsor
-[<img src="https://github.com/coinpride/CryptoList/blob/master/join_cryptomemes.png?raw=true" width="467">](https://t.me/join_cryptomemes)
-
-
 # Contents
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
